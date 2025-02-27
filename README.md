@@ -7,7 +7,7 @@ Name	Student ID
 
 Vatsal Mukeshbhai Ved	6352306
 
-Asjad Afnan [Student ID]
+Asjad Afnan 6352552
 
 ## Project Overview
 ### Tasks
